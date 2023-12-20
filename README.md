@@ -11,7 +11,7 @@ Este projeto foi desenvolvido como parte do curso oferecido pela ASIMOV Academy,
    - Ao clicar em um estado no mapa, são exibidas informações detalhadas, incluindo óbitos totais, novos casos, casos acumulados e óbitos por dia específicos para o estado selecionado.
 
 ### 3. **Visão Geral do Brasil:**
-   - O dashboard oferece uma visão geral do Brasil, destacando dados agregados para proporcionar uma compreensão abrangente da situação, no ano de 2021, no país.
+   - O dashboard oferece uma visão geral do Brasil, destacando dados agregados para proporcionar uma compreensão abrangente da situação, no ano de 2021, do país.
 
 ### 4. **Seleção de Data:**
    - Uma funcionalidade de seleção de data permite aos usuários analisar dados específicos para um determinado dia, facilitando a observação de tendências ao longo do tempo.

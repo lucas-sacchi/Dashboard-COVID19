@@ -19,4 +19,3 @@ Este projeto foi desenvolvido como parte do curso oferecido pela ASIMOV Academy,
 ## **Motivação e Objetivos:**
 Este projeto foi idealizado com o propósito de proporcionar uma experiência prática no desenvolvimento de dashboards interativos usando Python. Ao utilizar bibliotecas como Dash, Plotly e Pandas, os participantes do curso da ASIMOV Academy adquiriram habilidades valiosas em análise de dados e visualização.
 
-![Dashboard](C:\Users\Lucas\Desktop\C\Estudos\DashboardPy/dashboard.png)

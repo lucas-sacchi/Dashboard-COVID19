@@ -1,4 +1,4 @@
-# Projeto de Dashboard Interativo COVID-19 - ASIMOV Academy
+# Projeto de Dashboard Interativo COVID-19
 
 Este projeto foi desenvolvido como parte do curso oferecido pela ASIMOV Academy, com o objetivo de fornecer uma ferramenta interativa para análise dos dados da COVID-19 no Brasil. O dashboard apresenta um mapa interativo, permitindo explorar informações cruciais, como óbitos totais, novos casos, casos acumulados e óbitos por dia.
 

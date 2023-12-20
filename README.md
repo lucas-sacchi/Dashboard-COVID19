@@ -17,6 +17,6 @@ Este projeto foi desenvolvido como parte do curso oferecido pela ASIMOV Academy,
    - Uma funcionalidade de seleção de data permite aos usuários analisar dados específicos para um determinado dia, facilitando a observação de tendências ao longo do tempo.
 
 ## **Motivação e Objetivos:**
-Este projeto foi idealizado com o propósito de proporcionar uma experiência prática no desenvolvimento de dashboards interativos usando Python. Ao utilizar bibliotecas como Dash, Plotly e Pandas, os participantes do curso da ASIMOV Academy adquiriram habilidades valiosas em análise de dados e visualização.
+Este projeto foi idealizado com o propósito de proporcionar uma experiência prática no desenvolvimento de dashboards interativos usando Python. Ao utilizar bibliotecas como Dash, Plotly e Pandas, pude adquirir habilidades valiosas em análise de dados e visualização.
 
 ![dashboard](https://github.com/lucas-sacchi/Dashboard-COVID19/assets/77127729/6ea05aad-317c-48bf-8caa-5aeaad810dc6)
